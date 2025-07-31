@@ -1,0 +1,1 @@
+import requests\n\nprint('Hello, Snyk!')
